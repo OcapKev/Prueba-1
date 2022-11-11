@@ -1,0 +1,7 @@
+npm init vite@latest
+npm install
+npm install -d tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+tailwindcss.com
+https://react-icons.github.io/react-icons/
