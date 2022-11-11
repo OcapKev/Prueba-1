@@ -5,7 +5,7 @@ import { RiShoppingCartFill, RiHeart2Line } from "react-icons/ri";
 const Header = () => {
   return <header className="h-[10vh] text-gray-300 p-4 flex items-center justify-between bg-[#181A20] z-40">
 
-    {/* Menu */}
+    {/* Menu de inicio */}
 
     <ul className="flex items-center gap-6">
         <li>
@@ -17,7 +17,9 @@ const Header = () => {
         </li>
 
         <li>
-            <a href="https://github.com/OcapKev" className="text-[#E58D27] transition-colors">GitHub</a>
+            <a href="https://github.com/OcapKev" 
+                className="text-[#E58D27] transition-colors" 
+                target="_blank">GitHub</a>
         </li>
 
         <li>

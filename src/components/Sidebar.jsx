@@ -11,7 +11,7 @@ const Sidebar = () => {
 
         {/* Imagen */}
         <img src="https://avatars.githubusercontent.com/u/583231?v=4" 
-        className="w-full rounded-2xl"/>
+        className="rounded-full"/>
 
     </div>
 
@@ -20,7 +20,6 @@ const Sidebar = () => {
     <ul className="flex items-center justify-between">
         <li>
             <a href="https://www.google.com.ar/maps/place/Posadas,+Misiones/@-27.3962288,-55.9595352,13z/data=!3m1!4b1!4m5!3m4!1s0x9457be7f080496c3:0xccbff374623e7b9a!8m2!3d-27.3621374!4d-55.9008746" 
-            
             target="_blank"
             className="hover:text-[#E58D27] transition-colors text-2xl">
             <RiMapPin2Line/>

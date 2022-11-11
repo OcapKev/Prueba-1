@@ -14,8 +14,8 @@ function App() {
 
                 {/* Barra de Buscador */}
                   <div>
-                    <RiSearchLine className="absolute left-2 top-3 text-gray-400"/>
-                    <input className="bg-[#181A20] py-2 pl-10 pr-10 object-cover object-top rounded-2xl" type="text" placeholder="Usuario de GitHub"/>
+                    <RiSearchLine className="absolute left-3 top-3 text-gray-400"/>
+                    <input className="bg-[#181A20] py-2 pl-10 pr-10 rounded-2xl" type="text" placeholder="Usuario de GitHub"/>
 
                   </div>
 
